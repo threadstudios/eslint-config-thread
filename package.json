@@ -1,18 +1,20 @@
 {
-    "name": "eslint-config-thread",
-    "version": "1.0.0",
-    "description": "Eslint config for Thread applications",
-    "main": "index.js",
-    "license": "MIT",
-    "dependencies": {
-        "eslint": "^6.1.0",
-        "eslint-config-airbnb": "^18.0.1",
-        "eslint-config-prettier": "^6.4.0",
-        "eslint-plugin-import": "^2.18.2",
-        "eslint-plugin-jsx-a11y": "^6.2.3",
-        "eslint-plugin-prettier": "^3.1.1",
-        "eslint-plugin-react": "^7.16.0",
-        "eslint-plugin-react-hooks": "^1.7.0",
-        "prettier": "^1.18.2"
-    }
+  "name": "@threadws/eslint-config-thread",
+  "version": "1.0.0",
+  "description": "Eslint config for Thread applications",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.4.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "prettier": "^1.18.2"
+  },
+  "repository": "git@github.com:threadstudios/eslint-config-thread.git",
+  "author": "Paul Westerdale <paul@threadstud.io>"
 }
